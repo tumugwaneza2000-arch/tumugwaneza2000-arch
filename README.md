@@ -52,7 +52,3 @@ To bridge the gap between classroom theory and practical execution, I utilized t
 3. Key Takeaways
 • Developed the hands-on diagnostic vocabulary required to effectively communicate network bugs and operating system issues in a ticket escalation framework.
 • Demonstrated a committed habit of self-directed technical learning, staying current with core infrastructure concepts.
-
-
-- ⚡ Fun fact: ...
--->
